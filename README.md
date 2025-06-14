@@ -42,6 +42,7 @@ I'm enthusiastic about **front-end development**, **AI-powered apps**, and **clo
 </p>
 
 ## 🧠 Projects I'm Proud Of
+- 📃**Real time collaborative document editor**:Collab-Editor is a simple yet powerful real-time collaborative text editor that allows multiple users to edit the same document simultaneously
 - 🎓 **Studysphere**: An online learning platform with video lessons, quizzes, and progress tracking.
 - 🌐 **PWA E-Commerce App**: Works offline, supports push notifications, and has a responsive UI.
 - 👨‍💻 **My Portfolio Website**: A creative showcase of my projects, skills, and certifications.
