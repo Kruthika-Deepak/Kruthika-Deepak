@@ -1,6 +1,6 @@
 WELCOME TO MY GITHUB PROFILE!🙋🏼‍♀️
 
-Hi there! I'm Kruthika D, a passionate and curious developer currently pursuing B.Tech in Computer Science (AI & ML).  
+Hi there! I'm Kruthika D, a passionate and curious developer currently pursuing B.E in Computer Science (AI & ML).  
 I'm enthusiastic about **front-end development**, **AI-powered apps**, and **cloud technologies** — always building, learning, and experimenting.
 
 
