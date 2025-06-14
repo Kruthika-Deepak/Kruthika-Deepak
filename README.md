@@ -5,7 +5,7 @@ I'm enthusiastic about **front-end development**, **AI-powered apps**, and **clo
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### 🔷 Programming & Development
 <p align="left">
@@ -42,15 +42,14 @@ I'm enthusiastic about **front-end development**, **AI-powered apps**, and **clo
 </p>
 
 ## 🧠 Projects I'm Proud Of
-- 📃**Real time collaborative document editor**:Collab-Editor is a simple yet powerful real-time collaborative text editor that allows multiple users to edit the same document simultaneously
-- 🎓 **Studysphere**: An online learning platform with video lessons, quizzes, and progress tracking.
-- 🌐 **PWA E-Commerce App**: Works offline, supports push notifications, and has a responsive UI.
-- 👨‍💻 **My Portfolio Website**: A creative showcase of my projects, skills, and certifications.
+- 1.**Real time collaborative document editor**:Collab-Editor is a simple yet powerful real-time collaborative text editor that allows multiple users to edit the same document simultaneously
+- 2.**Studysphere**: An online learning platform with video lessons, quizzes, and progress tracking.
+- 3.**PWA E-Commerce App**: Works offline, supports push notifications, and has a responsive UI.
+- 4. **My Portfolio Website**: A creative showcase of my projects, skills, and certifications.
 
 ## 🌱 Currently Learning
-- Full-stack app deployment with **Docker + AWS**
-- Real-time collaboration tools using **Socket.IO**
-- Deep diving into **LLMs & AI tools**
+- 1.Full-stack app deployment with **Docker + AWS**
+- 2.Deep diving into **LLMs & AI tools**
 
 ## 🤝 Let's Connect!
 I'm open to **internships**, **collaborations**, or just a quick chat about tech and startups!
