@@ -45,7 +45,7 @@ I'm enthusiastic about **front-end development**, **AI-powered apps**, and **clo
 - 1.**Real time collaborative document editor**:Collab-Editor is a simple yet powerful real-time collaborative text editor that allows multiple users to edit the same document simultaneously
 - 2.**Studysphere**: An online learning platform with video lessons, quizzes, and progress tracking.
 - 3.**PWA E-Commerce App**: Works offline, supports push notifications, and has a responsive UI.
-- 4. **My Portfolio Website**: A creative showcase of my projects, skills, and certifications.
+- 4.**My Portfolio Website**: A creative showcase of my projects, skills, and certifications.
 
 ## Currently Learning
 - 1.Full-stack app deployment with **Docker + AWS**
